@@ -1,0 +1,7 @@
+# .gitignore
+
+# ignore node modules
+/node_modules*
+
+# ignore configuration
+/config/config.json
